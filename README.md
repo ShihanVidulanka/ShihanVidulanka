@@ -1,7 +1,7 @@
 <h1 align="center">
     Hi 👋, I'm Shihan Vidulanka
 </h1>
-<h3 align="center">A passionate Web and enterprise software developer from Sri-Lanka</h3>
+<h3 align="center">A passionate web and enterprise Software Engineer from Sri-Lanka</h3>
 <img align="right" height = auto width =160 src = "/profile/profile.jpeg" alt="Portfolio Badge"/>
 <br/>
 <br/>
