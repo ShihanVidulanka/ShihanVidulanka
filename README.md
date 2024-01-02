@@ -104,8 +104,8 @@
 
 ---
 
-## 👨🏻‍💻 Projects
-
+<details>
+<summary><h2>👨🏻‍💻 Projects </h2></summary>
 
 - 👨‍💻 <a href="https://github.com/ShihanVidulanka/ML_Project.git">Feature Selection and Engineering for AudioMNIST Dataset</a>\
 📅 2023\
@@ -150,3 +150,5 @@
 - 👨‍💻 <a href="https://github.com/ShihanVidulanka/EmailClient.git">Email Client Project - Java Maven Application</a>\
 📅 2021\
 📍 Semester 2 Computer Architecture Nano Processor design Group Project
+
+</details>
