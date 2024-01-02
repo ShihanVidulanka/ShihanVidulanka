@@ -107,7 +107,12 @@
 <details>
 <summary><h2>👨🏻‍💻 Projects </h2></summary>
 
-- 👨‍💻 <a href="https://github.com/ShihanVidulanka/ML_Project.git">Feature Selection and Engineering for AudioMNIST Dataset</a>\
+- 👨‍💻 <a href="https://github.com/ShihanVidulanka/ML_Project.git">Sinhala Metaphor Search Engine</a>\
+📅 2023\
+📍 Semester 7 Data Mining Mini Project
+
+
+- 👨‍💻 <a href="https://github.com/ShihanVidulanka/ML_Lab_1.git">Feature Selection and Engineering for AudioMNIST Dataset</a>\
 📅 2023\
 📍 Semester 7 Machine Learning Engineering Project
 
