@@ -112,7 +112,7 @@
 📍 Semester 7 Machine Learning Engineering Project
 
 
-- 👨‍💻 <a href="https://github.com/cedar247.git">Constrained Based Roster Sheduler</a>\
+- 👨‍💻 <a href="https://github.com/cedar247">Constrained Based Roster Sheduler</a>\
 📅 2022\
 📍 Semester 5 Software Engineering Group Project
 
