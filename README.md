@@ -39,7 +39,13 @@
 ## ⚡ Technologies & Tools
 
 <p align="center">
-  <img src="/techstack/java.svg" title="Java" alt="Java" height="30"/>&nbsp;
+  <img src="/techstack/go.svg" title="Go" alt="Java" height="30"/>&nbsp;
+    <img width="12" />
+  <img src="/techstack/gin.svg" height="30" alt="Gin logo"  />
+    <img width="12" />
+  <img src="/techstack/aws.svg" height="30" alt="AWS logo"  />
+    <img width="12" />
+<img src="/techstack/java.svg" title="Java" alt="Java" height="30"/>&nbsp;
     <img width="12" />
   <img src="/techstack/python.svg" height="30" alt="python logo"  />
     <img width="12" />
